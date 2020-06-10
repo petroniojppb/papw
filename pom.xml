@@ -16,9 +16,9 @@
 	<description>Projeto da disciplina de programação Avançada para web</description>
 
 <properties>
-  	<sonar.projectKey>teste</sonar.projectKey>
+  	<sonar.projectKey>fujioka</sonar.projectKey>
   	<sonar.host.url>http://ip172-18-0-9-brgmfflim9m000cu8fq0-9000.direct.labs.play-with-docker.com</sonar.host.url>
-  	<sonar.login>papw</sonar.login>
+  	<sonar.login>1c56a18a33db03e410a183e0821c53e389cf71e2</sonar.login>
 </properties>
 
 	<dependencies>
